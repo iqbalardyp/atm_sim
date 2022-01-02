@@ -1,0 +1,2 @@
+# atm_sim
+This is my first project on Github and my first step to start the journey of learning to code. My goal is this project could becomes a publishable apps and people could enjoy the simulator in their smartphone. I know there are so many project like this in Playstore but I think to finally arrive at that 'peak' is somewhat cool. So, I want to do this and try to commit to update the content monthly.
